@@ -1,0 +1,26 @@
+nome,url,attivo
+AGI Economia,http://www.agi.it/economia/rss,1
+ANSA Economia,https://www.ansa.it/sito/notizie/economia/economia_rss.xml,1
+Corriere Economia,https://www.corriere.it/rss/economia.xml,1
+Euronews Mercati,https://it.euronews.com/rss?level=theme&name=markets,1
+Euronews Mondo,https://it.euronews.com/rss,1
+Federal Reserve,https://www.federalreserve.gov/feeds/press_all.xml,1
+FinanzaOnline,https://www.finanzaonline.com/feed,1
+Google News Borsa,https://news.google.com/rss/search?q=titoli+di+borsa&hl=it&gl=IT&ceid=IT%3Ait,1
+Il Sole 24 Ore Finanza,https://www.ilsole24ore.com/rss/finanza.xml,1
+Il Sole 24 Ore Italia,https://www.ilsole24ore.com/rss/italia.xml,1
+Investing Mercati,https://it.investing.com/rss/news_356.rss,1
+Investing Mercati,https://it.investing.com/rss/news_1062.rss,1
+Investing Mercati,https://it.investing.com/rss/news_1061.rss,1
+Investing Mercati,https://it.investing.com/rss/news_25.rss,1
+Investing Mercati,https://it.investing.com/rss/news_14.rss,1
+Investing Mercati,https://it.investing.com/rss/news_95.rss,1
+Investire Oggi,https://www.investireoggi.it/feed/,1
+Linkiesta Economia,https://www.linkiesta.it/argomento/economia/feed/,1
+Money,https://www.money.it/?page=discover-feed&settore=home,0
+Radiocor Borsa,https://www.ilsole24ore.com/rss/radiocor--in-borsa.xml,1
+Repubblica Economia,https://www.repubblica.it/rss/economia/rss2.0.xml,1
+SoldiOnline,https://www.soldionline.it/feed,1
+Teleborsa Banche,https://news.teleborsa.it/NewsFeed.ashx?channel=banche,1
+Teleborsa Generale,https://news.teleborsa.it/NewsFeed.ashx,1
+Wallstreet Italia,https://www.wallstreetitalia.com/feed/,1

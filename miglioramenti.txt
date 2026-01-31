@@ -1,0 +1,12 @@
+Il feed di una notizia, sia esso un feed RSS o un news feed 
+è una sequenza strutturata di contenuti aggiornati dinamicamente.
+ È composto da una serie di blocchi ricorrenti (schede o post)
+ 
+contenenti titolo OK
+
+- sommario, 
+- immagini/video 
+
+link e metadati OK
+
+spesso organizzati in ordine cronologico o personalizzati da algoritmi. 
