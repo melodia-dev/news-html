@@ -5,14 +5,12 @@
 // Configurazione Proxy - Lista ottimizzata
 const PROXY_SERVERS = [
     
-       'https://api.allorigins.win/get?url=',
-       'https://api.allorigins.win/raw?url=',
-       'https://cors-anywhere.herokuapp.com/',
-       'https://cors.x2u.in/',
-       'https://thingproxy.freeboard.io/fetch/',    // ✅ No rate limit noti
+        'https://api.allorigins.win/get?url=',
+        'https://api.allorigins.win/raw?url=',
+        'https://thingproxy.freeboard.io/fetch/',    // ✅ No rate limit noti
   'https://corsproxy.xyz/',                    // ✅ Veloce EU-based  
   'https://cors-anywhere.run/',                // ✅ Fork aggiornato
-  'https://corsfix.com/api/v1/',               // ✅ 60 req/min free tier
+  
   'https://proxy.cors.sh/'                 
       
       
