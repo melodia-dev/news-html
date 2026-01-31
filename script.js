@@ -4,13 +4,25 @@
 
 // Configurazione Proxy - Lista ottimizzata
 const PROXY_SERVERS = [
-  
-    //  'https://corsproxy.io/?',
-    //  'https://api.codetabs.com/v1/proxy?quest=',
-// Alternative:
-    // 'https://bridge.codes',
-     'https://api.allorigins.win/get?url=',
-      'https://api.allorigins.win/raw?url='
+    
+       'https://api.allorigins.win/get?url=',
+       'https://api.allorigins.win/raw?url=',
+       'https://cors-anywhere.herokuapp.com/',
+       'https://cors.x2u.in/',
+       'https://thingproxy.freeboard.io/fetch/',    // ✅ No rate limit noti
+  'https://corsproxy.xyz/',                    // ✅ Veloce EU-based  
+  'https://cors-anywhere.run/',                // ✅ Fork aggiornato
+  'https://corsfix.com/api/v1/',               // ✅ 60 req/min free tier
+  'https://proxy.cors.sh/'                 
+      
+      
+       // Alternative:
+      // 'https://bridge.codes',
+      // 'https://corsproxy.io/?',
+      // 'https://api.codetabs.com/v1/proxy?quest=',
+
+      
+
      
 ];
 
@@ -86,7 +98,7 @@ function getProxyUrl(feedUrl) {
     
     // Usa il proxy corrente e ruota
     const proxy = PROXY_SERVERS[currentProxyIndex];
-    currentProxyIndex = (currentProxyIndex + 2) % PROXY_SERVERS.length;
+    currentProxyIndex = (currentProxyIndex + 1) % PROXY_SERVERS.length;
     
     const proxyUrl = proxy + encodeURIComponent(feedUrl);
     proxyCache.set(feedUrl, proxyUrl);
@@ -94,7 +106,7 @@ function getProxyUrl(feedUrl) {
     return proxyUrl;
 }
 
-async function fetchWithFallback(url, maxRetries = 5) {
+async function fetchWithFallback(url, maxRetries = 3) {
     for (let i = 0; i < maxRetries; i++) {
         try {
             const proxyUrl = getProxyUrl(url);
