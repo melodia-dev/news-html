@@ -4,10 +4,10 @@
 
 // Configurazione Proxy - Lista ottimizzata
 const PROXY_SERVERS = [
-          'https://bridge.codes',       
+'https://corsproxy.io/?'
       
         // Alternative:
-        // 'https://bridge.codes',
+
         // 'https://corsproxy.io/?',
         // 'https://api.codetabs.com/v1/proxy?quest=',
         // 'https://proxy.cors.sh/' 
