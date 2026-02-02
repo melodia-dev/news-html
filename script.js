@@ -4,7 +4,7 @@
 
 // Configurazione Proxy - Lista ottimizzata
 const PROXY_SERVERS = [
-        'https://cors-anywhere.run/'          
+          'https://bridge.codes',       
       
         // Alternative:
         // 'https://bridge.codes',
@@ -12,11 +12,9 @@ const PROXY_SERVERS = [
         // 'https://api.codetabs.com/v1/proxy?quest=',
         // 'https://proxy.cors.sh/' 
         // 'https://api.allorigins.win/get?url=',           no
-        // 'https://api.allorigins.win/raw?url=',           13
+        // 'https://api.allorigins.win/raw?url=',           13 poi 55 al terzo tentativo
         // 'https://thingproxy.freeboard.io/fetch/',    
         // 'https://corsproxy.xyz/',                     
-        // 'https://cors-anywhere.run/',                     ?
-
       
 
      
