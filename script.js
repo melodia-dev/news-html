@@ -4,11 +4,10 @@
 
 // Configurazione Proxy - Lista ottimizzata
 const PROXY_SERVERS = [
-'https://corsproxy.io/?'
-      
+
+      'https://api.codetabs.com/v1/proxy?quest='
         // Alternative:
 
-        // 'https://corsproxy.io/?',
         // 'https://api.codetabs.com/v1/proxy?quest=',
         // 'https://proxy.cors.sh/' 
         // 'https://api.allorigins.win/get?url=',           no
