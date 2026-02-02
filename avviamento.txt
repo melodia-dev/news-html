@@ -1,0 +1,13 @@
+PER far partire in locale bisogna emulare da console di essere un sito
+quindi cmd o powershel nella cartella giusta 
+
+C:\Users\Mirko\Desktop\dashboard2
+
+poi  
+
+
+python -m http.server 8000
+
+poi apriamo  chrome 
+
+http://localhost:8000/INDEX.html

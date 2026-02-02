@@ -82,14 +82,14 @@ recessione,1,MACRO
 conflitto,1,GUERRA
 guerra,1,GUERRA
 tensione,1,GUERRA
-SANZIONI,1,GEOPOLITICA
+sanzioni,1,GEOPOLITICA
 tensioni,1,GEOPOLITICA
 accordo di pace,1,GEOPOLITICA
 accordi di pace,1,GEOPOLITICA
 gpl,1,ENERGIA
 lpg,1,ENERGIA
 crisi,1,MACRO
-debito,1,MACRO
+debito Italiano,1,MACRO
 banca centrale,1,BCE
 stimolo,1,MACRO
 quantitative easing,1,MACRO
