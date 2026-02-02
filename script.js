@@ -4,14 +4,14 @@
 
 // Configurazione Proxy - Lista ottimizzata
 const PROXY_SERVERS = [
-        'https://api.allorigins.win/get?url=',                      
+        'https://api.allorigins.win/raw?url=',           
       
         // Alternative:
         // 'https://bridge.codes',
         // 'https://corsproxy.io/?',
         // 'https://api.codetabs.com/v1/proxy?quest=',
         // 'https://proxy.cors.sh/' 
-        // 'https://api.allorigins.win/get?url=',
+        // 'https://api.allorigins.win/get?url=',   //no
         // 'https://api.allorigins.win/raw?url=',
         // 'https://thingproxy.freeboard.io/fetch/',    
         // 'https://corsproxy.xyz/',                     
