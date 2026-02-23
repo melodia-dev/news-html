@@ -1,7 +1,9 @@
 PER far partire in locale bisogna emulare da console di essere un sito
-quindi cmd o powershel nella cartella giusta 
 
-C:\Users\Mirko\Desktop\dashboard2
+win+r
+
+o cmd da indirizzo cartella
+
 
 poi  
 
