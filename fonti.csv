@@ -17,7 +17,7 @@ Investing Mercati,https://it.investing.com/rss/news_14.rss,1
 Investing Mercati,https://it.investing.com/rss/news_95.rss,1
 Investire Oggi,https://www.investireoggi.it/feed/,1
 Linkiesta Economia,https://www.linkiesta.it/argomento/economia/feed/,1
-Money,https://www.money.it/?page=discover-feed&settore=home,1
+Money,https://www.money.it/?page=discover-feed&settore=home,0
 Radiocor Borsa,https://www.ilsole24ore.com/rss/radiocor--in-borsa.xml,1
 Repubblica Economia,https://www.repubblica.it/rss/economia/rss2.0.xml,1
 SoldiOnline,https://www.soldionline.it/feed,1
@@ -25,5 +25,8 @@ Teleborsa Banche,https://news.teleborsa.it/NewsFeed.ashx?channel=banche,1
 Teleborsa Generale,https://news.teleborsa.it/NewsFeed.ashx,1
 Wallstreet Italia,https://www.wallstreetitalia.com/feed/,1
 Firstonline,https://www.firstonline.info/category/finanza-e-mercati/feed/,1
-Borse.it,https://www.borse.it/feed,1
+Borse.it,https://www.borse.it/breaking-news/feed,1
 MarketWatch ,https://feeds.content.dowjones.io/public/rss/mw_bulletins,1
+Tiiscali Finanza,https://rss.tiscali.it/feed/risparmio/,1
+Reuters,https://cdn.mysitemapgenerator.com/shareapi/rss/16022042175,0
+Wsj,https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness,1
