@@ -8,12 +8,12 @@ const PROXY_SERVERS = [
       'https://api.codetabs.com/v1/proxy?quest='
         // Alternative:
 
-        // 'https://api.codetabs.com/v1/proxy?quest=',
-        // 'https://proxy.cors.sh/' 
-        // 'https://api.allorigins.win/get?url=',           no
-        // 'https://api.allorigins.win/raw?url=',           13 poi 55 al terzo tentativo
-        // 'https://thingproxy.freeboard.io/fetch/',    
-        // 'https://corsproxy.xyz/',                     
+         'https://api.codetabs.com/v1/proxy?quest=',
+         'https://proxy.cors.sh/' 
+         'https://api.allorigins.win/get?url=',           
+         'https://api.allorigins.win/raw?url=',           
+         'https://thingproxy.freeboard.io/fetch/',    
+         'https://corsproxy.xyz/',                     
       
 
      
