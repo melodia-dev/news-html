@@ -16,8 +16,8 @@ const PROXY_SERVERS = [
         
          'https://api.codetabs.com/v1/tmp?quest=',
           
-         'https://api.allorigins.win/get?url=',           
-         'https://api.allorigins.win/raw?url=',           
+        // 'https://api.allorigins.win/get?url=',           
+        // 'https://api.allorigins.win/raw?url=',           
          'https://corsproxy.xyz/',                     
       
 
