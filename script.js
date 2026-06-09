@@ -6,15 +6,15 @@
 const PROXY_SERVERS = [
 
           
-    //'https://corsfix.com/cors-proxy/?url=',
-    'https://proxy.cors.sh/', 
+    'https://corsfix.com/cors-proxy/?url=',
+    //'https://proxy.cors.sh/', 
     //'https://corsproxy.io/?url=',
-    //'https://api.codetabs.com/v1/proxy?quest=',
+    'https://api.codetabs.com/v1/proxy?quest=',
         // Alternative:
         
          'https://api.codetabs.com/v1/tmp?quest=',
           
-        // 'https://api.allorigins.win/get?url=',           
+         'https://api.allorigins.win/get?url=',           
         // 'https://api.allorigins.win/raw?url=',           
          'https://corsproxy.xyz/',                     
       
