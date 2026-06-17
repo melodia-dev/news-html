@@ -4,20 +4,25 @@
 
 // Configurazione Proxy - Lista ottimizzata
 const PROXY_SERVERS = [
-
-          
-    'https://corsfix.com/cors-proxy/?url=',
-    //'https://proxy.cors.sh/', 
-    //'https://corsproxy.io/?url=',
-    'https://api.codetabs.com/v1/proxy?quest=',
-        // Alternative:
+         
+        'https://api.allorigins.win/get?url=',
+        'https://api.allorigins.win/raw?url=',
+        'https://bridge.codes/',    
+        'https://thingproxy.freeboard.io/fetch/',        
+        'https://corsproxy.io/?',
+        'https://bridge.codes',
         
-         'https://api.codetabs.com/v1/tmp?quest=',
-          
-         'https://api.allorigins.win/get?url=',           
-        // 'https://api.allorigins.win/raw?url=',           
-         'https://corsproxy.xyz/',                     
-      
+        // Alternative:
+        // 'https://api.codetabs.com/v1/tmp?quest=',
+        // 'https://proxy.cors.sh/' 
+        // 'https://corsproxy.xyz/',  
+        // 'https://corsfix.com/cors-proxy/?url=',
+        // 'http://api.allorigins.win/get?url=',    no
+        // 'https://cors-anywhere.herokuapp.com/',    // Spesso down
+        // 'https://cors.bridged.cc/',              // Spesso down
+        
+
+            
 
      
 ];
